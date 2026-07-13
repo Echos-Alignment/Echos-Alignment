@@ -1,8 +1,8 @@
-# ECHOS-Alignment:Civilizational Boundary Alignment Framework
+# ECHOS-Alignment: Civilizational Boundary Alignment Framework
 
 # Official Knowledge Repository
 
-*A research framework for civilizational alignment, ecological continuity, intelligent life, and AI governance.*
+### *A research framework for civilizational alignment, ecological continuity, intelligent life, and AI governance.*
 
 ECHOS-Alignment is an independent research framework dedicated to the long-term alignment of civilization, ecological continuity, intelligent life, and artificial intelligence governance.
 
@@ -34,10 +34,10 @@ Rather than proposing an AI ethics guideline alone, ECHOS develops a civilizatio
 ## Official Resources
 
 🌐 Official Website  
-*(Coming soon)*
+*coming soon*
 
 📚 White Paper  
-*Version 1.0 published*
+*Chinese Version 1.0 published on 10.07.2026: https://zenodo.org/records/21286524*
 
 📖 Canonical Terminology (Appendix A)  
 *(In preparation)*
