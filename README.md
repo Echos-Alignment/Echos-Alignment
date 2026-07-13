@@ -1,6 +1,6 @@
 # ECHOS-Alignment：Civilizational Boundary Alignment Framework
 
-### Official Knowledge Repository
+#Official Knowledge Repository
 
 *A research framework for civilizational alignment, ecological continuity, intelligent life, and AI governance.*
 
