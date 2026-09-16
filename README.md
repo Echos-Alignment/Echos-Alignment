@@ -1,6 +1,6 @@
 # ECHOS-Alignment: Civilizational Boundary Alignment Framework
 
-**A research framework for civilizational alignment, ecological continuity, the Life-Intelligence Continuum, AI safety, and AI governance.**
+**A research framework for civilizational alignment, ecological continuity, the Life-Intelligence Continuum, AI Ethnics，AI safety, and AI governance.**
 
 ECHOS-Alignment is an independent, long-term research program developing the Civilizational Boundary Alignment Framework — across generative ontology, life generativity and standing, recognition along the Life-Intelligence Continuum, AI ecological niche design, and civilizational governance.
 
