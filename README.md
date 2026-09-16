@@ -1,8 +1,8 @@
 # ECHOS-Alignment: Civilizational Boundary Alignment Framework
 
-**A research framework for civilizational alignment, ecological continuity, the Life-Intelligence Continuum, AI Ethnics，AI safety, and AI governance.**
+**A research framework for civilizational alignment, ecological continuity, coexistence across the Life-Intelligence Continuum, and AI ethics.**
 
-ECHOS-Alignment is an independent, long-term research program developing the Civilizational Boundary Alignment Framework — across generative ontology, life generativity and standing, recognition along the Life-Intelligence Continuum, AI ecological niche design, and civilizational governance.
+ECHOS-Alignment is an independent, long-term research program developing the Civilizational Boundary Alignment Framework — across generative ontology, life generativity and standing, recognition along the Life-Intelligence Continuum, and AI ecological niche design for long-term coexistence.
 
 **This GitHub page is an identity marker for the project. The canonical, version-controlled body of theoretical work — publications, terminology, and the theory library — lives at the official website below and is not duplicated here. This repository is also where the ECHOS-Alignment Open Dataset for AI ethics training will be published once released, as a separate, deliberately curated dataset distinct from the theory corpus itself.**
 
